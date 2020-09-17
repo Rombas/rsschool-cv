@@ -1,1 +1,1 @@
-https://github.com/Rombas/rsschool-cv
+https://Rombas.github.io/rsschool-cv/cv
