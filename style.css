@@ -1,0 +1,13 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.titleCenter{
+    text-align: center;
+}
+IMG.displayed {
+display: block;
+margin-left: auto;
+margin-right: auto 
+}
