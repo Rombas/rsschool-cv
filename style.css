@@ -1,0 +1,22 @@
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.titleCenter {
+	text-align: center;
+}
+
+IMG.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+}
+.logo{
+	height: 15px;
+}
+footer{
+	text-align: center;
+}
